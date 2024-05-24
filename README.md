@@ -1,3 +1,9 @@
+免费部署:
+
+serv00免费搭建pixiv反代
+
+[Tawerの博客](https://blg.tawertwtc.xyz/2024/05/18/%E7%AE%80%E5%8D%95%E7%9A%84pixiv%E5%8F%8D%E4%BB%A3.html)
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/36563862/175779656-fbd1bd56-e0e1-46db-b028-0e33d018792e.png" width="200" height="200" alt="排队姬">
